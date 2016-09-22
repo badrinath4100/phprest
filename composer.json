@@ -1,0 +1,13 @@
+{
+    "require": {
+       
+    },
+    
+    "autoload": {
+        "psr-4": {
+            "Application\\": "Application\\",
+            "System\\": "System\\",
+            "Config\\": "Config\\"
+        }
+    }
+}
